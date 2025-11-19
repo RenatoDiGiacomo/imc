@@ -31,7 +31,7 @@ imc/
 ### Backend
 - **Node.js** - Runtime JavaScript
 - **json-server** - API REST baseada em JSON
-- **Porto**: 5001
+- **Port**: 5001
 
 ### Frontend
 - **React 19** - Biblioteca UI
